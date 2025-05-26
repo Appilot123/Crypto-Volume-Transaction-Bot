@@ -1,5 +1,13 @@
 <h1 align="center">Crypto Volume Transaction Bot</h1>
 
+## Project Overview:
+This bot is built to simulate organic transaction activity and volume across various crypto pairs on decentralized or centralized exchanges. Designed for market makers, liquidity providers, or promotional campaigns, the bot generates realistic trade actions (buy/sell) to influence perceived activity and encourage investor engagement. With configurable thresholds, randomized timing, and stealth execution, it helps inflate market interest without raising suspicion.
+
+## Core Features:
+- **Stealth Execution via Proxy Rotation:** Routes transactions through a pool of proxies to prevent IP clustering and ensure anonymity.
+- **Randomized Transaction Logic:** Mimics human-like trading behavior with random amounts, intervals, and asset selection.
+- **Exchange-Agnostic Architecture:** Modular adapters for multiple exchange APIs (Uniswap, PancakeSwap, Binance, etc.).
+
 
 <div align="center">
   <img
@@ -64,13 +72,6 @@
 
 <div align="left">
 
-## Project Overview:
-This bot is built to simulate organic transaction activity and volume across various crypto pairs on decentralized or centralized exchanges. Designed for market makers, liquidity providers, or promotional campaigns, the bot generates realistic trade actions (buy/sell) to influence perceived activity and encourage investor engagement. With configurable thresholds, randomized timing, and stealth execution, it helps inflate market interest without raising suspicion.
-
-## Core Strengths:
-- **Stealth Execution via Proxy Rotation:** Routes transactions through a pool of proxies to prevent IP clustering and ensure anonymity.
-- **Randomized Transaction Logic:** Mimics human-like trading behavior with random amounts, intervals, and asset selection.
-- **Exchange-Agnostic Architecture:** Modular adapters for multiple exchange APIs (Uniswap, PancakeSwap, Binance, etc.).
 
 ## Features List:
 | Feature                 | Description                                                              |
